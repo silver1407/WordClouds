@@ -3,7 +3,7 @@
 ## Getting Started
 Takes 3 params:
 
-1. URL of website to get a large list of words from, Wiki pages on any subject is good.
+1: URL of website to get a large list of words from, Wiki pages on any subject is good.
 
 2: A temp name for the text file produced by the crawler.
  
